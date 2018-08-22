@@ -43,16 +43,16 @@ Right Now:
         * Use the issues to ask each person a question
         * Mention the person you're asking in the body of the issue (ie. @username)
     2. Each person will answer their PM's question:
-      1. Find your mentioned issued in issues / mentioned
-      2. Find the issue in it's home repo
-      3. Create a fork of the PM's repo
-      4. In the fork, create a new file and answer their question
-      5. Send them a pull request, mention your issue in the body (ie. #3)
+        1. Find your mentioned issued in issues / mentioned
+        2. Find the issue in it's home repo
+        3. Create a fork of the PM's repo
+        4. In the fork, create a new file and answer their question
+        5. Send them a pull request, mention your issue in the body (ie. #3)
     3. The PM will accept or reject each answer:
-      1. Check pull requests
-      2. Review the answer
-      3. Either merge, or ask for modifications
-      4. Close the linked issue
+        1. Check pull requests
+        2. Review the answer
+        3. Either merge, or ask for modifications
+        4. Close the linked issue
 
 ![](./gh-chat-board.png)
 
